@@ -2,7 +2,7 @@
 
 
 # Md Mintu Miah1*, Nicholas Fournier2, Alexander Skabardonis3
-# *1Postdoctoral Researcher, SafeTREC and PATH, University of California Berkeley, 310 Mclaughlin Hall, Berkeley, CA 94720; Corresponding Email: mmmiah@berkeley.edu; ORCID: 0000-0001-6073-3896
+# *Postdoctoral Researcher, SafeTREC and PATH, University of California Berkeley, 310 Mclaughlin Hall, Berkeley, CA 94720; Corresponding Email: mmmiah@berkeley.edu; ORCID: 0000-0001-6073-3896
 # Planner and Engineer, Resource Systems Group, Inc; Email: nichfournier@gmail.com; ORCID: 0000-0002-4722-4138
 # Professor, Department of Civil Engineering, University of California Berkeley, 320 Mclaughlin Hall, Berkeley, CA 94720; Email: dromeas@berkeley.edu, ORCID: 0000-0002-7064-5993
 # ABSTRACT
